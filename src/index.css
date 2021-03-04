@@ -15,6 +15,15 @@ body {
   src: url('./assets/fonts/Dosis.ttf');
 }
 
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
 * {
   margin: 0;
   padding: 0;
